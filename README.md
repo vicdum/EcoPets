@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">Source code for EcoPets, a premium spigot plugin.</h4>
-
+ 
 <p align="center">
     <a href="https://polymart.org/resource/ecopets.1351">
         <img alt="spigot" src="https://img.shields.io/badge/polymart-EcoPets-d977c2?style=for-the-badge"/>
